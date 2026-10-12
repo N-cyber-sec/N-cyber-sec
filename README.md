@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Computer Science Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e7490&height=180&section=header&text=Nat%20%7C%20Computer%20Science&fontColor=ffffff&fontSize=34&fontAlignY=35&desc=Technology%20%7C%20Programming%20%7C%20Cybersecurity&descAlignY=58&descSize=14)
 
 # Hi, I'm Nat!
