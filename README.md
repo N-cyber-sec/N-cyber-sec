@@ -12,41 +12,34 @@ My interests span software development, cybersecurity, Python programming, healt
 
 ---
 
-## ୨୧ Software Engineering & Development
+## Software Engineering & Development
 
 I'm interested in software design, application development, and building practical solutions through code. I enjoy exploring how applications work, how software is structured, and how creative ideas can become functional products.
 
-## ୨୧ Cybersecurity & Secure Technology
+## Cybersecurity & Secure Technology
 
 As a Cybersecurity student, I'm interested in digital security, network protection, secure programming, and understanding how systems can be designed to be more reliable and resilient.
 
-## ୨୧ Assistive Technology & Smart Mobility
+## Assistive Technology & Smart Mobility
 
 One of my interests is the intersection of software engineering, healthcare technology, and assistive devices — especially wheelchair technology and innovative mobility solutions.
 
 I'm fascinated by how software, sensors, automation, and connected systems can support accessibility, independence, and better user experiences.
 
-## ୨୧ Healthcare Technology
+##  Healthcare Technology
 
 I'm interested in technology that supports healthcare, accessibility, and everyday well-being, including digital health applications, assistive systems, and solutions designed around real human needs.
 
-## ୨୧ Python & Programming
+## Python & Programming
 
 I'm exploring Python through hands-on projects, scripting, programming fundamentals, and practical problem-solving while developing my understanding of how software is built.
 
-## ୨୧ Networking & Cloud Computing
+## Networking & Cloud Computing
 
 I'm interested in the technology behind connected systems, including network communication, cloud services, connected devices, and the infrastructure that allows modern applications to work.
 
 ---
 
-## ♡ Technology With Purpose
-
-What interests me most is the way technology can combine creativity, engineering, and real-world impact. Smart mobility and wheelchair innovation are especially interesting examples of how software, electronics, hardware, and thoughtful design can work together to improve accessibility and independence.
-
-From connected mobility devices and smart controls to accessible applications and secure systems, I find it exciting to explore how different areas of technology can come together to create meaningful solutions.
-
----
 
 <p align="center">
   <i>Building with curiosity, creating with purpose, and learning one line of code at a time.</i>
