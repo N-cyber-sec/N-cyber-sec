@@ -1,41 +1,36 @@
-![Computer Science Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e7490&height=180&section=header&text=Nat%20%7C%20Computer%20Science&fontColor=ffffff&fontSize=34&fontAlignY=35&desc=Technology%20%7C%20Programming%20%7C%20Cybersecurity&descAlignY=58&descSize=14)
+Hi I'm Nat
 
-# Hi, I'm Nat!
+### Software Engineering & Development
 
-### Computer Science Student | Exploring Technology
+Interested in software design, application development, programming, and building practical solutions through code. I enjoy exploring how software is structured, how applications work, and how technology can solve real-world problems.
 
-I'm a Computer Science student who enjoys learning how technology works and exploring different areas of computing. I'm building my skills through hands-on projects and learning new tools as I work toward my goals.
+### Cybersecurity & Secure Technology
 
-## About Me
+Studying cybersecurity with an interest in digital security, network protection, secure programming, and understanding how systems can be designed to be more reliable and resilient.
 
-- Studying Computer Science with an interest in many areas of technology
-- Learning Python and programming fundamentals
-- Exploring cybersecurity, networking, and cloud computing
-- Interested in software development and healthcare technology
-- Building projects to gain practical experience
+### Assistive Technology & Smart Mobility
 
-## Currently Learning
+Interested in the intersection of software engineering, healthcare technology, and assistive devices, particularly wheelchair technology and innovative mobility solutions. I'm fascinated by how software, sensors, automation, and connected systems can contribute to accessibility, independence, and improved user experiences.
 
-- Python and programming
-- Computer networking and cybersecurity
-- Cloud computing fundamentals
-- Software development concepts
+### Healthcare Technology
 
-## My Projects
+Interested in technology that supports healthcare, accessibility, and everyday well-being, including digital health applications, assistive systems, and solutions designed around real user needs.
 
-**[Python Projects](https://github.com/N-cyber-sec/python-projects)**
+### Python & Programming
 
-A collection of Python scripts and projects I'm building as I develop my technical skills.
+Exploring Python through hands-on projects, scripting, programming fundamentals, and practical problem-solving while developing a deeper understanding of how software is built.
 
-## Areas of Interest
+### Networking & Cloud Computing
 
-- Computer Science
-- Programming and Software Development
-- Cybersecurity and Network Security
-- Cloud Computing
-- Healthcare Technology
+Interested in the infrastructure behind modern technology, including network communication, cloud services, connected devices, and the systems that allow applications to operate.
 
 ---
 
-*Curious about technology, always learning, and building one project at a time.*
+## Technology That Makes a Difference
+
+I'm particularly interested in how software engineering can connect with assistive technology and mobility innovation. Wheelchair technology is an exciting example of how software, electronics, hardware, and thoughtful design can come together to improve accessibility and everyday life.
+
+I find the relationship between technology and real-world needs especially interesting, from connected mobility devices and smart controls to accessible applications and secure systems.
+
+These interests bring together several areas of computing I enjoy exploring: software development, cybersecurity, healthcare technology, and practical problem-solving.
 
